@@ -24,13 +24,13 @@ This Python application uses your webcam and hand gestures to apply real-time im
 Upload sample images for each filter below:
 
 ### Black & White
-![Black & White](images/bw_sample.jpg)
+![Black & White](images/sample1.png)
 
 ### Invert
-![Invert](images/invert_sample.jpg)
+![Invert](images/sample2.png)
 
 ### Thermal
-![Thermal](images/thermal_sample.jpg)
+![Thermal](images/sample3.png)
 
 ### Depth
-![Depth](images/depth_sample.jpg)
+![Depth](images/sample4.png)
