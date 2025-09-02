@@ -27,10 +27,10 @@ Upload sample images for each filter below:
 ![Black & White](sample1.png)
 
 ### Invert
-![Invert](images/sample2.png)
+![Invert](sample2.png)
 
 ### Thermal
-![Thermal](images/sample3.png)
+![Thermal](sample3.png)
 
 ### Depth
-![Depth](images/sample4.png)
+![Depth](sample4.png)
