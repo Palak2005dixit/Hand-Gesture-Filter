@@ -11,7 +11,7 @@ This Python application uses your webcam and hand gestures to apply real-time im
 ## How to Run
 1. Install dependencies:
    bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    
 2. Run the application:
    bash
@@ -24,7 +24,7 @@ This Python application uses your webcam and hand gestures to apply real-time im
 Upload sample images for each filter below:
 
 ### Black & White
-![Black & White](images/sample1.png)
+![Black & White](sample1.png)
 
 ### Invert
 ![Invert](images/sample2.png)
